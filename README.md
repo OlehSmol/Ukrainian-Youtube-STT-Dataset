@@ -8,7 +8,8 @@
 
 UYSTT is a corpus of approximately 52 hours of 16kHz Ukrainian speech from Ukrainian youtube channels. We collected data from source with manual labeled captions and proper alignment.
 
-**Banchmarks 
+**Banchmarks**
+
 |      Model         |     WER    | 
 |:------------------:|:----------:|
 |  Whisper (tiny)    |    58%   |
